@@ -7,14 +7,14 @@
 # Experimental Design and Methods:
 
 Cell Preparation: 
--Utilized Saccharomyces cerevisiae for its close evolutionary relations to higher eukaryotes and manageable genome for genetic studies. 
--Grew yeast in different media to observe metabolic pathway impacts on DNA.
+- Utilized Saccharomyces cerevisiae for its close evolutionary relations to higher eukaryotes and manageable genome for genetic studies. 
+- Grew yeast in different media to observe metabolic pathway impacts on DNA.
 Transformation and Selection:
--Transformed yeast cells with specific markers for selection and isolating mutants for the study.
+- Transformed yeast cells with specific markers for selection and isolating mutants for the study.
 DNA and RNA Handling:
 - Conducted DNA extraction, sequencing preparations, and RNA extraction for subsequent bioinformatics analysis.
 Ribose-Seq: 
--Implemented a ribose-seq protocol to specifically isolate and quantify rNMPs within DNA samples, preparing them for deep sequencing.
+- Implemented a ribose-seq protocol to specifically isolate and quantify rNMPs within DNA samples, preparing them for deep sequencing.
 
 # Data Analysis:
 - Utilized a series of computational tools to analyze the sequencing data. This included handling ribose-map alignments, heatmaps, and RNA-seq data to interpret the impact of environmental changes on rNMP incorporation.
