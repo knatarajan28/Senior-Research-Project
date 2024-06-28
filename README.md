@@ -17,8 +17,8 @@ Ribose-Seq:
 -Implemented a ribose-seq protocol to specifically isolate and quantify rNMPs within DNA samples, preparing them for deep sequencing.
 
 # Data Analysis:
-Bioinformatics: Utilized a series of computational tools to analyze the sequencing data. This included handling ribose-map alignments, heatmaps, and RNA-seq data to interpret the impact of environmental changes on rNMP incorporation.
-Multi-Omics Integration: Explored correlations between transcription activities and rNMP incorporation to assess any significant biases or patterns.
+- Utilized a series of computational tools to analyze the sequencing data. This included handling ribose-map alignments, heatmaps, and RNA-seq data to interpret the impact of environmental changes on rNMP incorporation.
+- Explored correlations between transcription activities and rNMP incorporation to assess any significant biases or patterns.
 
 # Results:
 - Identified variations in rNMP incorporation rates between different strains and environmental conditions.
