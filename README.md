@@ -1,8 +1,8 @@
 # Senior-Research-Project (Jan 2023 - May 2023)
 
 # Research Objective and Hypothesis:
-Aimed to understand how different growth environments, specifically using glucose and galactose as carbon sources, influence rNMP incorporation in yeast DNA.
-Hypothesis: rNMP incorporation patterns would significantly differ in yeast cells grown in galactose vs glucose.
+- Aimed to understand how different growth environments, specifically using glucose and galactose as carbon sources, influence rNMP incorporation in yeast DNA.
+- Hypothesis: rNMP incorporation patterns would significantly differ in yeast cells grown in galactose vs glucose.
 
 # Experimental Design and Methods:
 
