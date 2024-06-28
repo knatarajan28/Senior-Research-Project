@@ -25,7 +25,7 @@ Multi-Omics Integration: Explored correlations between transcription activities 
 - Found that mitochondrial DNA rNMP incorporation was unchanged across different conditions, suggesting a unique nuclear DNA response to environmental changes.
 
 # Contributions to Field and Implications:
--New insights into how cellular metabolism influences genetic stability, which is crucial for understanding diseases linked to DNA replication errors.
--The findings suggest further research is needed to fully understand the mechanisms of rNMP incorporation and its biological implications.
+- New insights into how cellular metabolism influences genetic stability, which is crucial for understanding diseases linked to DNA replication errors.
+- The findings suggest further research is needed to fully understand the mechanisms of rNMP incorporation and its biological implications.
 
 ( Look at the Lab report added to this repository for the figures and discussion of the study )
